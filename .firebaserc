@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "signon-88abe": {
+      "hosting": {
+        "SignOn": [
+          "signon-88abe"
+        ]
+      }
+    }
+  }
+}
