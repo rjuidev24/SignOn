@@ -129,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "SignOn"
+  "defaultProject": "SignOn",
+  "cli": {
+    "analytics": "39cb4192-3ce7-479b-ba74-5aac1a08ecc2"
+  }
 }
